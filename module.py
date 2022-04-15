@@ -9,4 +9,4 @@ def mul(a,b):
 
 def div(a, b):
     return a // b
-#wntjr
+#주석
